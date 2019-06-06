@@ -20,5 +20,5 @@ To get a simple printout of lyrics and chords on a console, use live_chords.py
 For the actual application 'front_end' use Pygame_UI_test.py.... Yeah original name
 
 Make sure there is a folder called 'tabs' in the same folder as where these scripts are, (should be there when cloning this repo)
-
 Any suggestions are always welcome, though i can't promise quickly working on it :)
+Also let me know if it has helped you practice a song on guitar :)
